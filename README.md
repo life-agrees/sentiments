@@ -1,16 +1,14 @@
-
-```markdown
 # Sentiment Analysis on Hotel Reviews
 
 ## Table of Contents
-- [Introduction]
-- [Features]
-- [Installation]
-- [Usage]
-- [Project Structure]
-- [Contributing]
-- [License]
-- [Contact]
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 This project classifies hotel reviews as positive or negative using a Logistic Regression model.
@@ -21,7 +19,6 @@ This project classifies hotel reviews as positive or negative using a Logistic R
 
 ## Installation
 
-```sh
 # Clone the repository
 git clone https://github.com/life-agrees/sentiments.git
 
@@ -30,10 +27,10 @@ cd sentiments
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Example of how to run your project
+##Usage
 python hotel.py
 
+#Project Structure
 sentiments
 │   README.md
 │   requirements.txt
@@ -43,15 +40,22 @@ sentiments
     │   hotel_reviews.csv
 └───models
     │   le.pkl
-        model.pkl
-        tfidf.pkl
+    │   model.pkl
+    │   tfidf.pkl
+    
+##Contributing
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+##Contact
 Prince Ndukwe - LinkedIn - Send Email
 
 Project Link: https://github.com/life-agrees/sentiments
 
-streamlit link : https://sentiments-analysis.streamlit.app/
+Streamlit Link: https://sentiments-analysis.streamlit.app/
