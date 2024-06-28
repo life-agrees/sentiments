@@ -26,7 +26,8 @@ git clone (https://github.com/life-agrees/sentiments.git)
 cd sentiments
 
 ## Install dependencies
-pip install -r requirements.txt
+pip install
+-r requirements.txt
 
 ## Usage
 python hotel.py
@@ -37,7 +38,7 @@ python hotel.py
     
 │   requirements.txt
 
-│   main.py
+│   hotel.py
 
 │
 └───data
