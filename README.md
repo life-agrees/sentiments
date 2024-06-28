@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python hotel.py
 
 ## Project Structure
-sentiments
+<sentiments>
 │   README.md
 │   requirements.txt
 │   main.py
@@ -53,13 +53,14 @@ sentiments
 5.Open a pull request.
 
  License
-
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 This project is licensed under the MIT License - see the LICENSE file for details.
 
- Contact
+ ##Contact
 
-Prince Ndukwe - LinkedIn - Send Email
-
-Project Link: https://github.com/life-agrees/sentiments
-
-Streamlit Link: https://sentiments-analysis.streamlit.app/
+Prince Ndukwe [Send Email](mailto:pndukwe824@gmail.com)
+ LinkedIn: [Prince Ndukwe](https://www.linkedin.com/in/prince-ndukwe-71248920a/)
+ 
+Project Link: [Github] https://github.com/life-agrees/sentiments
+## webapp
+Streamlit Link: [sentiment analysis] https://sentiments-analysis.streamlit.app/
