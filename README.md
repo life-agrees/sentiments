@@ -18,14 +18,12 @@ This project classifies hotel reviews as positive or negative using a Logistic R
 - Achieved an accuracy of 89%.
 
 ## Installation
-```sh
+``sh
 # Clone the repository
-git clone (https://github.com/life-agrees/sentiments.git)
-
+git clone https://github.com/life-agrees/sentiments.git
 # Navigate to the project directory
 cd sentiments
-
-## Install dependencies
+# Install dependencies
 pip install
 -r requirements.txt
 
