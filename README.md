@@ -47,9 +47,13 @@ python hotel.py
 ## Contributing
 
 1.Fork the repository.
+
 2.Create a new branch (git checkout -b feature-branch).
+
 3.Commit your changes (git commit -m 'Add some feature').
+
 4.Push to the branch (git push origin feature-branch).
+
 5.Open a pull request.
 
  License
@@ -61,6 +65,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Prince Ndukwe [Send Email](mailto:pndukwe824@gmail.com)
  LinkedIn: [Prince Ndukwe](https://www.linkedin.com/in/prince-ndukwe-71248920a/)
  
-Project Link: [Github] https://github.com/life-agrees/sentiments
+Project Link: [Github](https://github.com/life-agrees/sentiments)
 ## webapp
-Streamlit Link: [sentiment analysis] https://sentiments-analysis.streamlit.app/
+Streamlit Link: [sentiment analysis](https://sentiments-analysis.streamlit.app/)
