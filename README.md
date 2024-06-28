@@ -2,17 +2,15 @@
 ```markdown
 # Sentiment Analysis on Hotel Reviews
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Introduction]
+- [Features]
+- [Installation]
+- [Usage]
+- [Project Structure]
+- [Contributing]
+- [License]
+- [Contact]
 
 ## Introduction
 This project classifies hotel reviews as positive or negative using a Logistic Regression model.
