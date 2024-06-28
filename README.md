@@ -25,12 +25,13 @@ git clone https://github.com/life-agrees/sentiments.git
 # Navigate to the project directory
 cd sentiments
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
-#Usage
+
+## Usage
 python hotel.py
 
-# Project Structure
+## Project Structure
 sentiments
 │   README.md
 │   requirements.txt
@@ -43,7 +44,8 @@ sentiments
     │   model.pkl
     │   tfidf.pkl
     
-# Contributing
+## Contributing
+
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -m 'Add some feature').
@@ -51,9 +53,11 @@ Push to the branch (git push origin feature-branch).
 Open a pull request.
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
+
 Prince Ndukwe - LinkedIn - Send Email
 
 Project Link: https://github.com/life-agrees/sentiments
